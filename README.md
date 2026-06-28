@@ -71,17 +71,6 @@ A fully responsive, mobile-first portfolio engineered with semantic HTML5 and ze
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshilTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshilTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 <div align="center">
 
