@@ -30,7 +30,6 @@ I'm a second-year Computer Science student specializing in **Data Science & AI**
 - 🏆 **2nd Place** at **Smart India Hackathon 2025** (Internal) — out of **79 teams**
 - ☁️ **Google Cloud** certified in GCP Compute, Vertex AI Prompt Engineering & Data Visualization
 - 🧠 Currently exploring the intersection of **AI** and **full-stack development**
-- 🎯 Actively seeking **internship opportunities** in product development
 
 ---
 
